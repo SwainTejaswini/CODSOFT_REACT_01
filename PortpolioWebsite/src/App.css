@@ -1,0 +1,11 @@
+#app{
+  text-align: center;
+}
+nav{
+  background-image: url('images.jpg');
+  background-repeat: no-repeat;
+  background-position: center;
+height: 200;
+
+}
+/* Add your global styles here */
